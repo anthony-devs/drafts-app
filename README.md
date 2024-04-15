@@ -1,10 +1,34 @@
-# Getting Started with Create React App
+# Getting Started with Drafts App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Drafts is an open source App similar to medium, for writing to a huge Social Audience
+Drafts is seen as an app where you’ll pour all your hearts and thoughts out, without Censoring, we promote free speech and free campaigning on the app
 
-In the project directory, you can run:
+Features 
+1. Smart Algorithms
+2. Writer Donations
+3. Basic & Premium Subscriptions
+4. Writer Job Search
+5. Ad Free User Experience 
+6. Executable Code Snippets
+7. Isolated Writer Spaces
+8. User Portfolio
+9. Writer Earnings from Writing
+10. Bonuses of 3 premium reads a day
+11. Writer Categories
+12. Instant Writer Payouts
+13. Writer Newsletter Subscription
+14. Video Capabilities
+15. Ratings
+
+Feel Free to test this app locally
+## Test DRAFTS app locally
+*RUN THE SERVER*
+run: `cd server`
+then: `npm start`
+
+Then in another Terminal go to the project directory, you can run:
 
 ### `npm start`
 
